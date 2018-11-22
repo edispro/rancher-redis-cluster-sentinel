@@ -1,4 +1,4 @@
-FROM redis
+FROM redis:4.0.9
 
 MAINTAINER Jérémie Bordier <jeremie.bordier@gmail.com>
 
